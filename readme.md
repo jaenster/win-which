@@ -1,5 +1,5 @@
 # which
-Simple tool to port the linux which to windows. As i like to use it from time to
+Simple tool to port the linux which to windows. As i like to use it from time to time
 
 # how to use
 ```
